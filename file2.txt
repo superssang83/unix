@@ -1,0 +1,13 @@
+test Foo data
+foo end
+Another Test line
+foo test case
+lowercase test
+foo at end test
+example line
+alpha beta gamma
+12345 numbers
+mixed Foo content
+
+end foo
+TEST
