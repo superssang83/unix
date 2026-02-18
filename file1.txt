@@ -1,0 +1,12 @@
+Error: Disk full
+Warning: Memory low
+InfoA: Success 100
+Error: Network unreachable
+Debug: Variable x=42
+Warning: Variable Y
+Error: VAriable 
+Note: Reboot required
+InfoB: Debug connection established 301
+Success: Update installed
+Error: Variable XA not defined  
+Warning: Timeout 9.
